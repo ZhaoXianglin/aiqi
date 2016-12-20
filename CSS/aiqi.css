@@ -1,7 +1,6 @@
 /** 基础样式 **/
 body{
     background-color: #efeff4;
-    font-family: Helvetica Neue,Helvetica,Arial,sans-serif
 }
 
 .bind_header{
@@ -20,4 +19,7 @@ body{
     line-height: 18px;
     text-align: center;
     padding:0 35px;
+}
+.bind_footer{
+    margin-top: 45px;
 }
