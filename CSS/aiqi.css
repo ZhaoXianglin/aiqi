@@ -1,0 +1,23 @@
+/** 基础样式 **/
+body{
+    background-color: #efeff4;
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif
+}
+
+.bind_header{
+    padding: 35px 0;
+}
+.bind_title{
+    color: #3cc51f;
+    font-size: 34px;
+    font-weight: bolder;
+    text-align: center;
+    margin: 15px auto;
+}
+.bind_subtitle{
+    color: #888;
+    font-size: 14px;
+    line-height: 18px;
+    text-align: center;
+    padding:0 35px;
+}
